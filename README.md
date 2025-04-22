@@ -17,7 +17,7 @@ Thank you for reading the [Succinctly Series](https://www.syncfusion.com/succinc
 [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
 
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/EbookTitle-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/)
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Vue-3-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/)
 
 ## Looking for more _Succinctly_ titles?
 
